@@ -1,17 +1,16 @@
 # MLElectrolytes
-Open-sourced electrolyte DFT data from computational screening.
+Electrolyte DFT data from computational screening.
 
 ## Project: Screen Ether Molecules for Solvate Ionic Liquid Applications 
 
-Our publication:
-
-
-Example optimized cluster geometry (left: COCCCOCCCOCCCOCCCOC.[Li+] right: COCCOCCOCCOCCOC.[Li+])
+Example optimized cluster geometry 
 <p align="center">
-  <img src="geoms/133331.gif" width="300">
-  <img src="geoms/122221.gif" width="270"/> 
+  <img src="geoms/133331.gif"  title="COCCCOCCCOCCCOCCCOC.[Li+]" width="300">
+  <img src="geoms/122221.gif"  title="COCCOCCOCCOCCOC.[Li+]" width="270"/> 
 </p>
 
+
+Our publication:
 
 ```
 @article{Wang2020,
